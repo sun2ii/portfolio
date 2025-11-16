@@ -111,20 +111,7 @@ Tailored value proposition for insurance organizations:
 
 ---
 
-### 08. Executive Email Templates
-**[08-executive-email-template.md](08-executive-email-template.md)**
-
-Ready-to-send email templates for:
-- Initial outreach (insurance-specific)
-- Follow-up after initial conversation
-- Cold outreach (general)
-- Post-engagement summary
-
-**Includes:** Subject line guidelines, body structure, attachment recommendations, follow-up timing
-
----
-
-### 09. Resume
+### 08. Resume
 **[resume.md](resume.md)**
 
 Full professional resume with:
