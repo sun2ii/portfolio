@@ -1,6 +1,6 @@
 # AI Systems Architecture — Enterprise Consulting Packet
 
-**Ben Basuni | AI Systems Architect**
+**Ben Basuni | AI Systems Architect**  
 binary.1702@gmail.com | [LinkedIn](https://www.linkedin.com/in/benbasuni) | [GitHub](https://www.github.com/sun2ii)
 
 ---
@@ -124,7 +124,7 @@ Ready-to-send email templates for:
 
 ---
 
-## Bonus: Resume
+### 09. Resume
 **[resume.md](resume.md)**
 
 Full professional resume with:
@@ -135,48 +135,4 @@ Full professional resume with:
 
 ---
 
-## How to Use This Portfolio
-
-### For Prospective Clients
-1. Start with **01-engagement-philosophy.md** to understand the approach
-2. Review **03-90-day-process-overview.md** for engagement structure
-3. Explore **04-90-day-process-myfencer.md** for detailed case study
-4. Check **06-deliverables-checklist.md** to see what you'll receive
-5. Read **07-insurance-value-statement.md** if you're in insurance
-
-### For Technical Stakeholders
-1. Start with **05-ai-architecture-diagram.md** for system design
-2. Review **04-90-day-process-myfencer.md** for implementation details
-3. Explore **02-selected-work-examples.md** for technical depth
-
-### For Executive Stakeholders
-1. Start with **03-90-day-process-overview.md** for high-level overview
-2. Review **06-deliverables-checklist.md** for ROI clarity
-3. Explore **07-insurance-value-statement.md** for industry-specific value
-
----
-
-## Next Steps
-
-**Ready to discuss your project?**
-
-- **Email:** benbasuni1@gmail.com
-- **Phone:** 916.595.7155
-- **LinkedIn:** [linkedin.com/in/benbasuni](https://www.linkedin.com/in/benbasuni)
-- **GitHub:** [github.com/sun2ii](https://www.github.com/sun2ii)
-
-Use the templates in **08-executive-email-template.md** to reach out, or contact me directly to schedule a discovery conversation.
-
----
-
-## Document Formats
-
-All materials provided in:
-- **Markdown** — documentation, reports, checklists
-- **Mermaid diagrams** — architecture, workflows, data flows
-- **Slides** — executive presentations (PDF + editable formats available)
-- **Spreadsheets** — cost/benefit, timelines, resource planning (upon request)
-
----
-
-**Last Updated:** January 2025
+**Last Updated:** November 2025
